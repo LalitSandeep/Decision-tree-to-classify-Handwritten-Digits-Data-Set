@@ -1,1 +1,1 @@
-# Decision-tree-using-Handwritten-Digits-Data-Set
+# Decision-tree-to classify-Handwritten-Digits-Data-Set
